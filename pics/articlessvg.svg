@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80mm"
+   height="105mm"
+   viewBox="0 0 80 105"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="articlessvg.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.44"
+     inkscape:cx="-64.285714"
+     inkscape:cy="560"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="false"
+     width="76mm" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-192)">
+    <ellipse
+       style="opacity:1;fill:#4fb8c7;fill-opacity:0;stroke-width:0.26458332;paint-order:stroke fill markers"
+       id="path823"
+       cx="165.93155"
+       cy="68.70237"
+       rx="48.75893"
+       ry="36.285713" />
+    <rect
+       style="fill:#80adcf;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458332"
+       id="rect2327"
+       width="75.165718"
+       height="93.806816"
+       x="2.4053059"
+       y="194.17331"
+       ry="2.2678576"
+       inkscape:transform-center-x="-4.2092803"
+       inkscape:transform-center-y="-0.60131737" />
+    <rect
+       style="fill:#3d3dc2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.30499092"
+       id="rect2329"
+       width="58.328594"
+       height="47.504734"
+       x="9.621212"
+       y="223.03691"
+       ry="2.2678576"
+       inkscape:transform-center-x="-1.2026515"
+       inkscape:transform-center-y="8.3924243e-06" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.8745098;fill-rule:evenodd;stroke-width:0.26458332"
+       id="rect2331"
+       width="55.321968"
+       height="12.627841"
+       x="10.823861"
+       y="203.19318"
+       ry="2.2678576" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.94117647;stroke:none;stroke-width:0.26458332;"
+       x="9.6212139"
+       y="283.77081"
+       id="text2335"><tspan
+         sodipodi:role="line"
+         id="tspan2333"
+         x="9.6212139"
+         y="283.77081"
+         style="stroke-width:0.26458332;fill:#ffffff;fill-opacity:0.94117647;-inkscape-font-specification:'Gill Sans MT';font-family:'Gill Sans MT';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">ARTICLE</tspan></text>
+  </g>
+</svg>
